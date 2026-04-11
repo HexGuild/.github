@@ -10,7 +10,7 @@ Whether you're exploring agent architectures, coordination protocols, or the fut
 
 Join the discussion. Questions, ideas, and challenge our assumptions.
 
-## Core Problems
+## Current Problems
 
 1. **No canonical decision record** — Currently scattered across Slack/email. After 60 days, institutional memory is lost.
 2. **Governance is aspirational, not enforced** — COORDINATION_PROTOCOL exists on paper. No automated validation. No audit trail.
