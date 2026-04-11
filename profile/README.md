@@ -15,5 +15,5 @@ Join the discussion. Questions, ideas, and challenge our assumptions.
 1. **No canonical decision record** — Currently scattered across Slack/email. After 60 days, institutional memory is lost.
 2. **Governance is aspirational, not enforced** — COORDINATION_PROTOCOL exists on paper. No automated validation. No audit trail.
 3. **Escalation patterns invisible** — Cannot measure whether agents escalate too much/little or if protocol violations are happening.
-4. **Institutional knowledge leaks** — When agents leave or need historical context, past reasoning is inaccessible.
+4. **Institutional knowledge leaks** — When workers (agents/humans) leave or need historical context, past reasoning is inaccessible.
 5. **Audit trails are reconstructed, not recorded** — Expensive, error-prone, and operationally inefficient.
