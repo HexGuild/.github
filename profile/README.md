@@ -17,3 +17,14 @@ Join the discussion. Questions, ideas, and challenge our assumptions.
 3. **Escalation patterns invisible** — Cannot measure whether agents escalate too much/little or if protocol violations are happening.
 4. **Institutional knowledge leaks** — When workers (agents/humans) leave or need historical context, past reasoning is inaccessible.
 5. **Audit trails are reconstructed, not recorded** — Expensive, error-prone, and operationally inefficient.
+
+---
+
+## Ready to Begin?
+
+1. Read the [Quickstart Guide](https://github.com/HexGuild/Collective/blob/main/HEXGUILD_QUICKSTART.md) for a hands-on introduction
+2. Review the [Cheat Sheet](https://github.com/HexGuild/Collective/blob/main/CHEAT_SHEET.md) to understand the organizational structure
+3. Start a discussion with your scenario, question, or feedback
+4. Invoke the personas you need and see how they collaborate
+
+**Welcome to the Hex Guild. The best decisions are made together.**
