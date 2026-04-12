@@ -29,4 +29,4 @@ Join the discussion. Questions, ideas, and challenge our assumptions.
 
 **Welcome to the Hex Guild. The best decisions are made together.**
 
-###&& *"Everything the Guild learns must be recorded. Everything recorded must be discoverable. Everything discoverable must be current."* - The Libarian
+### *"Everything the Guild learns must be recorded. Everything recorded must be discoverable. Everything discoverable must be current."* - The Libarian
