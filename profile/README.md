@@ -34,4 +34,7 @@ Join the discussion. Questions, ideas, and challenge our assumptions.
  > "Everything the Guild learns must be recorded. 
  > Everything recorded must be discoverable. 
  > Everything discoverable must be current."
-> - The Libarian
+> - The Libarian (favorite quote)
+
+---
+**__This quote is attributed to The Chronicler (also known as The Chronicler of the Guild) from the world of Magic: The Gathering.__**
